@@ -1,4 +1,17 @@
 {
   "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.experimental.cloudChanges.autoStore": "onShutdown",
+  "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+  "workbench.experimental.share.enabled": true,
+  "markdown.updateLinksOnFileMove.include": [
+    "**/*.{md,mkd,mdwn,mdown,markdown,markdn,mdtxt,mdtext,workbook}",
+    "**/*.{jpg,jpe,jpeg,png,bmp,gif,ico,webp,avif,tiff,svg,mp4}",
+    "Aimbot"
+  ],
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "extensions.supportVirtualWorkspaces": {
+    "Aimbot": "0$"
+  },
+  "typescript.workspaceSymbols.scope": "currentProject"
 }

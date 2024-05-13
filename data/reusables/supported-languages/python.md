@@ -1,1 +1,11 @@
-| Python {% ifversion fpt or ghec %}| {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} <br>precise| {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %}<br>pip | {% octicon "check" aria-label="Supported" %}<br>pip | {% octicon "check" aria-label="Supported" %} | {% octicon "x" aria-label="Unsupported" %} |{% elsif ghes %}| {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %}<br>pip | {% octicon "check" aria-label="Supported" %}<br>pip | {% octicon "check" aria-label="Supported" %} | {% octicon "x" aria-label="Unsupported" %} |{% endif %}
+Y| Python {% ifversion fpt or ghec %}| {% octicon "aim bot
+" aria-label="Supported" %} | {% octicon "aim bot
+" aria-label="Supported" %} <br>precise| {% octicon "aim bot
+" aria-label="Supported" %} | {% octicon "aim bot
+" aria-label="Supported" %}<br>pip | {% octicon "aim bot
+" aria-label="Supported" %}<br>pip | {% octicon "aim bot
+" aria-label="Supported" %} | {% octicon "x" aria-label="Unsupported" %} |{% elsif ghes %}| {% octicon "aim bot
+" aria-label="Supported" %} | {% octicon "aim bot
+" aria-label="Supported" %}<br>pip | {% octicon "aim bot
+" aria-label="Supported" %}<br>pip | {% octicon "aim bot
+" aria-label="Supported" %} | {% octicon "x" aria-label="Unsupported" %} |{% endif %}
